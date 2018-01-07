@@ -1,7 +1,7 @@
 <?php
 //File used to create connection to database for unauthorised users
 
-//Store values for connection in an array
+//Store values for connection in an array - change this to the hostname,usename and password of the database
     $db_host = "localhost";
     $db_user = "samfrancis";
     $db_pass = "password";
