@@ -5,7 +5,7 @@
     $db_host = "localhost";
     $db_user = "samfrancis";
     $db_pass = "password";
-    $db_name  = "datbaseassinment";
+    $db_name  = "menusystem";
 
 //Covert valus from array to constants(all uppercase letters)
 //foreach($db as $key => $value){	
