@@ -26,22 +26,5 @@ if ($connection->connect_error) {
 ?>
 
 
-<?php
-//Client external database 
-//Store values for connection in an array
-  //  $db_host2 = "flexelearning.com";
-	//$db_name2  = "flexeweb_cafe";
-    //$db_user2 = "flexe_student";
-    //$db_pass2 = "B@thCollege";
 
-// Create connection
-//$connection2 = new mysqli($db_host2, $db_user2, $db_pass2 , $db_name2);
 
-// Check connection
-//if ($connection2->connect_error) {
- //   die("Connection failed: " . $connection2->connect_error);
-//
-//}
-  // $connection2->set_charset("utf-8");//Set charset to english
-
-?>
